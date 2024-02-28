@@ -2,6 +2,8 @@
 
 In this project I am diving into the agricultural dataset again to continue to validate our data. First I build a data pipeline that will ingest and clean our data with the press of a button, cleaning up our code significantly. 
 
+The main code is in validating_our_data.ipynb notebook.
+
 The code is organised into three modules: 
 
     a. `data_ingesation.py` - All SQL-related functions, and web-based data retrieval.
